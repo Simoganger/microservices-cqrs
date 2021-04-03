@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e31eca8-0fb5-41d1-989e-bc5f78f67364" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pkYipjfMNHvAcvk75wg576fQo2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.springbank.user.query.api.handler" />
+      <recent name="com.springbank.user.cmd.api.security" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e31eca8-0fb5-41d1-989e-bc5f78f67364" name="Default Changelist" comment="" />
+      <created>1615728684511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615728684511</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="939" y="263" width="374" height="570" key="#com.intellij.ide.util.MemberChooser" timestamp="1615738541079">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="939" y="263" width="374" height="570" key="#com.intellij.ide.util.MemberChooser/0.0.1600.900@0.0.1600.900" timestamp="1615738541079" />
+    <state x="518" y="0" width="544" height="860" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1615729589530">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="518" y="0" width="544" height="860" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.900@0.0.1600.900" timestamp="1615729589530" />
+    <state x="333" y="87" width="924" height="679" key="Maven.ArtifactSearchDialog" timestamp="1615740286505">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="333" y="87" width="924" height="679" key="Maven.ArtifactSearchDialog/0.0.1600.900@0.0.1600.900" timestamp="1615740286505" />
+    <state x="304" y="64" key="SettingsEditor" timestamp="1615737500436">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="304" y="64" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1615737500436" />
+    <state x="483" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1615737581632">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="483" y="256" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1615737581632" />
+  </component>
+</project>

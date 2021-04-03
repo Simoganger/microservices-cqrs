@@ -1,0 +1,12 @@
+# Spring
+server:
+  port:
+    8081
+
+# Mongo
+spring:
+  data:
+    mongo:
+      host: localhost
+      port: 27018
+      database: user
