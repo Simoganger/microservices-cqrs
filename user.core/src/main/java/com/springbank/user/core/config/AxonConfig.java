@@ -25,7 +25,7 @@ public class AxonConfig {
     @Value("${spring.data.mongo.host:127.0.0.1}")
     private String mongoHost;
 
-    @Value("${spring.data.mongo.port:27018}")
+    @Value("${spring.data.mongo.port:27017}")
     private int mongoPort;
 
     @Value("${spring.data.mongo.database:user}")

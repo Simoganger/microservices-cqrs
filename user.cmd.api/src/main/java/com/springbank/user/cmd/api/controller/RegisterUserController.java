@@ -29,7 +29,7 @@ public class RegisterUserController {
     public ResponseEntity<RegisterUserResponse> registerUser(@Valid @RequestBody RegisterUserCommand command){
         command.setId(UUID.randomUUID().toString());
         try{
-           commandGateway.sendAndWait(command);
+           commandGateway.send(command);
            return new ResponseEntity<>(new RegisterUserResponse("User successfully registered"), HttpStatus.CREATED);
         }catch(Exception e){
             String safeMessageError = "Error while processing register user request for id - " + command.getId();

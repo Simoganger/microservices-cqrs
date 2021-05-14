@@ -23,7 +23,6 @@ public class Account {
     @Size(min = 6, message = "Password should have at least 6 characters")
     private String password;
 
-    @NotNull(message = "Please provide at least 1 user role")
     private List<Role> roles;
 
 }

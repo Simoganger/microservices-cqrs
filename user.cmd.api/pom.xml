@@ -15,6 +15,7 @@
 	<description>User Command Project</description>
 	<properties>
 		<java.version>8</java.version>
+		<jackson.version>2.12.1</jackson.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -56,6 +57,25 @@
 			<artifactId>user.core</artifactId>
 			<version>1.0.0</version>
 		</dependency>
+
+		<dependency>
+			<groupId>com.sun.xml.bind</groupId>
+			<artifactId>jaxb-impl</artifactId>
+			<version>2.2.3</version>
+		</dependency>
+
+		<!-- Jackson library for parsing xml -->
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-annotations</artifactId>
+			<version>${jackson.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-core</artifactId>
+			<version>${jackson.version}</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
